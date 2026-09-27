@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Hi, I'm Kerem. I am a freshman studying Computer Engineering at Bilkent University. I am currently learning Java and exploring software development.
 <!--
 **keremkeles/keremkeles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
